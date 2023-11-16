@@ -43,11 +43,11 @@ Agora, você está pronto para começar! Lembre-se de seguir esta ordem: Servido
 Instalação do Banco de Dados MySQL
 Baixe o MySQL 
 
-Faça o download do MySQL **https://dev.mysql.com/downloads/installer/**.
+Faça o download do MySQL: **https://dev.mysql.com/downloads/installer/**.
 Siga as instruções de instalação.
 **Assistência à Instalação:**
 
-Em caso de dúvidas durante a instalação, consulte este vídeo tutorial:**https://www.youtube.com/watch?v=whSimU8GfhY&t=1390s.**
+Em caso de dúvidas durante a instalação, consulte este vídeo tutorial:**https://www.youtube.com/watch?v=whSimU8GfhY&t=1390s.** Minuto 9:14 em Diante
 **Configuração do Usuário:**
 
 Após a instalação, configure o **usuário como root** e a **senha como 123456** Todos os detalhes estão salvos no arquivo do **banco de dados**.

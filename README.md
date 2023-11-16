@@ -18,7 +18,9 @@ No **Gerenciador de Pacotes do NuGet**, escolha **"Gerenciador de Pacotes do NuG
 
 Dentro do Gerenciador de Pacotes do NuGet para a Solução, clique em **"Instalar"** e adicione os seguintes pacotes para o código do Servidor:
 -MySqlConnection-
+
 -MySQL-
+
 -SQLite-
 **Execute o Servidor:**
 

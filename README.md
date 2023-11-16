@@ -8,7 +8,7 @@ Faça o download do Visual Studio aqui:https://visualstudio.microsoft.com/pt-br/
 Siga as instruções de instalação.
 **Adicione os Arquivos ao Visual Studio:**
 
-Coloque os arquivos Servidor.cs e Cliente.cs dentro do Visual Studio.
+Coloque os arquivos **Servidor.cs** e **Cliente.cs** dentro do Visual Studio.
 **Instale as Extensões Necessárias:**
 
 Vá para "Ferramentas" e selecione "Gerenciador de Pacotes do NuGet".

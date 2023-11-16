@@ -1,0 +1,6 @@
+Usuario:root
+Senha:123456
+host:localhost
+porta:3306
+dataBase:devstatus
+banco de dados Mysql rodando local

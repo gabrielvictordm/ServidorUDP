@@ -17,11 +17,13 @@ No **Gerenciador de Pacotes do NuGet**, escolha **"Gerenciador de Pacotes do NuG
 **Instale Pacotes no Servidor:**
 
 Dentro do Gerenciador de Pacotes do NuGet para a Solução, clique em **"Instalar"** e adicione os seguintes pacotes para o código do Servidor:
--MySqlConnection-
 
--MySQL-
+**MySqlConnection**
 
--SQLite-
+**MySQL**
+
+**SQLite**
+
 **Execute o Servidor:**
 
 Abra o código do Servidor no Visual Studio.
@@ -30,8 +32,10 @@ Rode o **Servidor antes do Cliente** para garantir uma conexão adequada.
 **Instale Pacotes no Cliente:**
 
 No Gerenciador de Pacotes do NuGet para a Solução, clique em "Instalar" e adicione os seguintes pacotes para o código do Cliente:
--MySqlConnection-
--MySQL-
+**MySqlConnection**
+
+**MySQL**
+
 **Execute o Cliente:**
 
 Abra o código do Cliente no Visual Studio.
